@@ -1,0 +1,16 @@
+path: dataset  # Relative path to the 'dataset' folder
+
+# Paths to the training and validation image folders
+train: images//train  # Training images folder
+val: images//val  # Validation images folder
+
+# Class names for classification
+names:
+  0: Auto
+  1: Bus
+  2: Car
+  3: LCV
+  4: Motorcycle
+  5: Truck
+  6: Tractor
+  7: Multi-Axle
