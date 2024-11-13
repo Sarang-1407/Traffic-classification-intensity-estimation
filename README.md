@@ -74,6 +74,6 @@ VaahanFlow v1.1.0 is an advanced vehicle classification and estimation project d
 
 ---
 
-**Author**: [Your Name]\
+**Author**: Sarang Deb Saha\
 **Version**: 1.1.0\
 **License**: MIT License
