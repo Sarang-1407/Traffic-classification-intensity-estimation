@@ -1,5 +1,7 @@
 # VaahanFlow v1.1.0
 
+![Demo GIF](https://imgur.com/a/d9zcX1k)
+
 ## Project Overview
 
 VaahanFlow v1.1.0 is an advanced vehicle classification and estimation project designed to automate the analysis of traffic footage. By leveraging state-of-the-art deep learning models such as YOLOv8 and SSD300\_VGG16, this project processes video footage and real-time camera feeds to classify vehicles efficiently. The project also features an automated web scraping module for collecting live traffic images and analyzing vehicle type distributions.
