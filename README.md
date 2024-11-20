@@ -1,5 +1,6 @@
 # VaahanFlow v1.1.0
 
+![Demo GIF](demo.gif)
 
 ## Project Overview
 
